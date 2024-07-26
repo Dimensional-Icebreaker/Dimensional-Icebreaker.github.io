@@ -1,4 +1,4 @@
-```markdown
+
 # Ribesh Joshi
 
 Dallas Fort Worth Metroplex | [(682)-217-2557](tel:6822172557) | [j.ribesh@gmail.com](mailto:ribesh.joshi@gmail.com) | [linkedin.com/in/ribesh-joshi](https://linkedin.com/in/ribesh-joshi)
