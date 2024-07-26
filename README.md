@@ -1,82 +1,87 @@
-
 # Ribesh Joshi
 
-Dallas Fort Worth Metroplex | [(682)-217-2557](tel:6822172557) | [j.ribesh@gmail.com](mailto:ribesh.joshi@gmail.com) | [linkedin.com/in/ribesh-joshi](https://linkedin.com/in/ribesh-joshi)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) [linkedin.com/in/ribesh-joshi](https://linkedin.com/in/ribesh-joshi)  
+📞 [(682)-217-2557](tel:6822172557)  
+✉️ [j.ribesh@gmail.com](mailto:ribesh.joshi@gmail.com)  
+🏙️ Dallas Fort Worth Metroplex
 
 ---
 
 ## Education
 
-**The University of Texas at Arlington**  
+**🎓 The University of Texas at Arlington**  
 *Bachelors of Computer Science and Engineering*  
 *August 2021 -- May 2025*  
-- Current GPA: 3.7
-- Maverick Academic Scholarship Recipient 2021–2025
-- Member of Upsilon Pi Epsilon Honors Society | Recipient of Dean’s Excellence Award
-- Relevant Coursework: Theoretical Concepts, DSA, Data Mining, Fundamentals of Machine Learning
+- **GPA**: 3.7
+- **Scholarships**: Maverick Academic Scholarship Recipient (2021–2025)
+- **Honors**: Member of Upsilon Pi Epsilon Honors Society, Recipient of Dean’s Excellence Award
+- **Relevant Coursework**: Theoretical Concepts, DSA, Data Mining, Fundamentals of Machine Learning
 
 ---
 
 ## Experience
 
-**SoNIC Summer Research Workshop**  
+**🔬 SoNIC Summer Research Workshop**  
 *Cornell University, Ithaca, NY*  
 *June 2023 -- July 2023*  
-- Researched the current limitations of text and image to text multimodal AI LLaVA (7B parameter model) to use as benchmarks and implemented methods to circumvent them for applications of citizen science and aiding the visually impaired.
-- Showcased the potential of combining object detection and depth estimation in computer vision to enhance safety for visually impaired individuals.
-- Utilized monocular depth estimation to calculate and prioritize object distances for user notification.
+- Researched limitations of multimodal AI LLaVA (7B parameter model) for benchmarks in citizen science and aiding the visually impaired.
+- Enhanced safety for visually impaired individuals by combining object detection and depth estimation in computer vision.
+- Implemented monocular depth estimation to calculate and prioritize object distances for user notifications.
 
-**UTA VR Senior Design (Navigating Healthcare Room)**  
+**🖥️ UTA VR Senior Design (Navigating Healthcare Room)**  
 *University of Texas at Arlington, Arlington, TX*  
 *Jan 2024 -- July 2024*  
-- Developing a sponsored VR HealthCare application for nursing students to simulate patient care using computer vision.
-- Implemented features to allow users with disabilities to interact with the virtual environment more naturally, designing accessibility features such as adjusting the height of a bed or a wheelchair with dynamic adjustments.
-- Enhanced accessibility and user interaction based on feedback from the nursing department.
+- Developing a VR Healthcare application for nursing students to simulate patient care using computer vision.
+- Designed accessibility features such as dynamic height adjustments for beds and wheelchairs.
+- Enhanced user interaction and accessibility based on nursing department feedback.
 
-**HackUTA Team-member of AskAway team**  
+**🤖 HackUTA Team-member of AskAway team**  
 *University of Texas at Arlington, Arlington, TX*  
 *October 2023*  
-- Created a simple Chatbot using LLAMA2 with Chainlit that could ingest books.
-- Trained the bot on Human Anatomy book, enabling it to answer all terminologies related to the book.
+- Developed a simple Chatbot using LLAMA2 and Chainlit to ingest and understand books.
+- Trained the chatbot on a Human Anatomy book to accurately answer related terminologies.
 
 ---
 
 ## Projects
 
-**Database App**  
+**💾 Database App**  
 *Nov 2023 -- Dec 2023*  
-*MySQL, HTML, CSS, PHP*  
-- Created a database from scratch for Arlington Herbal Shop.
-- Produced a proper ER relational schema diagram and mapped the CSV data file to the MySQL server.
-- Developed a basic web interface to manipulate the database by updating, inserting, and deleting via SQL queries.
+*Technologies*: MySQL, HTML, CSS, PHP  
+- Built a database from scratch for Arlington Herbal Shop.
+- Created an ER relational schema diagram and mapped a CSV data file to the MySQL server.
+- Developed a web interface for database manipulation through SQL queries.
 
-**Recipe-Book App**  
+**📖 Recipe-Book App**  
 *Aug 2023 -- Dec 2023*  
-*Java, XML with Android Studio*  
-- A collection of preconfigured recipes from various sources and cuisines.
-- Users can create their own recipes from scratch with personalization and name their recipe.
-- Used Firebase API to store app data in a live database; users can share their recipes with everyone across the app.
+*Technologies*: Java, XML with Android Studio  
+- Compiled preconfigured recipes from various sources and cuisines.
+- Enabled users to create personalized recipes from scratch.
+- Utilized Firebase API to store app data in a live database, allowing users to share recipes.
 
-**Airplane Ticket Price Tracking System (SCRAPY)**  
+**✈️ Airplane Ticket Price Tracking System (SCRAPY)**  
 *June 2023*  
-*Python, Selenium, Pandas*  
-- Scrapes the web for flight ticket prices and sends personal mail if the price gets cheap.
-- Scheduled the program using crontab to perform multiple scans throughout the day.
-- Deployed on my apartment’s server that runs 24/7.
+*Technologies*: Python, Selenium, Pandas  
+- Scraped the web for flight ticket prices and sent notifications if prices dropped.
+- Scheduled multiple daily scans using crontab.
+- Deployed the system on a 24/7 server.
 
-**Movie Ticket Sales System**  
+**🎟️ Movie Ticket Sales System**  
 *Nov 2022*  
-*C*  
-- Booking tickets from selected theaters using the available zip code through ASCII interface.
-- Customers can be added to the entry; based on the First In First Out (FIFO) principle.
-- Used basic data structures like Linked Lists, Stacks, Queue, and Binary Search Tree (BST).
+*Technologies*: C  
+- Developed a system for booking tickets through ASCII interface using zip codes.
+- Implemented FIFO principle for customer entry management.
+- Used data structures like Linked Lists, Stacks, Queue, and Binary Search Tree (BST).
 
 ---
 
 ## Technical Skills
 
-- **Languages**: Python, Java, C, ARM Assembly, XML, HTML, CSS, SQL, C#
-- **Frameworks/Libraries**: OpenCV, Pandas, Selenium, Numpy, Matplotlib, Keras
-- **Developer Tools**: GitHub, VS Code, Git, Android Studio, GitHub Copilot, ChatGPT, Guincorn, Nginx, Unity
+- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![ARM Assembly](https://img.shields.io/badge/ARM-0091BD?style=flat&logo=arm&logoColor=white) ![XML](https://img.shields.io/badge/XML-E34F26?style=flat&logo=xml&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+- **Frameworks/Libraries**: ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-0194E2?style=flat&logo=matplotlib&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+- **Developer Tools**: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-00BFAE?style=flat&logo=github&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67C?style=flat&logo=openai&logoColor=white) ![Guincorn](https://img.shields.io/badge/Guincorn-4990E2?style=flat&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 - **Other**: Familiarity with Linux, Unit Test Automation, Incident Response, Communication, Time Management
-```
+
+---
+
+Feel free to reach out if you have any questions or would like to collaborate on a project!
