@@ -1,6 +1,6 @@
 # Webserver
 
-Welcome to My Digital Domain! This project is a personal website hosted on a custom-configured private Linux-Ubuntu 22.04.4 LTS server, built using a Flask web application, and served with Gunicorn, WSGI, and Nginx.
+Welcome to My Digital Domain! This project is a personal website built using a Flask web application, and served with Gunicorn, WSGI, and Nginx.
 
 ## Key Features:
 - **Dynamic Content:**
@@ -32,31 +32,6 @@ Welcome to My Digital Domain! This project is a personal website hosted on a cus
 - **static/**: Directory for static files (CSS, JavaScript, images).
 - **templates/**: Directory for HTML template files.
 
-## Important Note:
-This project is structured to work within a Flask server environment with Gunicorn, WSGI, and Nginx. If you plan to host it outside of this environment, you'll need to adjust the paths for HTML templates and static files accordingly.
-
-## How to Run:
-1. **Clone the repository:**
-    ```bash
-    git clone https://github.com/yourusername/webserver.git
-    cd my-digital-domain
-    ```
-
-2. **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Configure Gunicorn and Nginx:**
-    - **Gunicorn:** Run the Flask app with Gunicorn:
-      ```bash
-      gunicorn -w 4 wsgi:app
-      ```
-    - **Nginx:** Configure Nginx to serve the app (refer to the provided Nginx configuration file in the repository).
-
-4. **Run the Application:**
-    - Ensure Nginx is running and configured to proxy requests to Gunicorn.
-    - Open your web browser and go to your server's domain or IP address.
 
 ## Demo:
 Check out the live demo at [ribesh-joshi.com.np](http://ribesh-joshi.com.np)
