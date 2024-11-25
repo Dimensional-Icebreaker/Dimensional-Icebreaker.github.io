@@ -145,7 +145,14 @@
                 <li>-> Enhanced the app’s responsiveness and user interface using @chakra-UI for consistent styling across devices.</li>
             </ul>
         </div><br>
-
+<!-- Pop-up Notification with Links -->
+        <div id="popup-overlay" class="popup-overlay" onclick="hidePopup()">
+            <div id="popup" class="popup-content" onclick="event.stopPropagation()">
+                <p id="popup-text">The app is deployed on a free version @Render Cloud App Platform so there might be some delay!</p>
+                <a id="popup-app-link" href="#" target="_blank" class="popup-link">Go Ahead</a>
+                <a id="popup-github-link" href="#" target="_blank" class="popup-link">View GitHub Link Instead</a>
+            </div>
+        </div>
         <!-- VR Navigating Healthcare-->
         <div class="project">
             <div class="date">Jan 2024 - July 2024</div><br>
@@ -158,7 +165,7 @@
                 <li>-> Enhanced accessibility and user interaction based on feedback from the nursing department.</li>
             </ul>
         </div><br>
-
+        
         <!-- Recipe-Book App -->
         <div class="project">
             <div class="date">Aug 2023 - Dec 2023</div><br>
