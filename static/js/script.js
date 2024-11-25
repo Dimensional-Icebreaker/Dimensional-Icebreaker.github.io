@@ -81,7 +81,7 @@ async function displayRandomQuote() {
 
 async function fetchWeather() {
     const apiKey = 'c7c870ecb47562c17b698237053b2f38';
-    const city = 'Dallas';
+    const city = 'New Jersey';
     try {
         const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${apiKey}`);
         const weather = await response.json();
