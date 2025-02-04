@@ -1,6 +1,6 @@
 # Ribesh- Joshi
 
-Welcome to My Digital Domain! This project is a personal website built using a Flask web application, and served with Gunicorn, WSGI, and Nginx.
+Welcome to My Digital Domain! This project is a personal website built using a Flask web application
 
 ## Key Features:
 - **Dynamic Content:**
